@@ -1,7 +1,5 @@
 # Flashy – French/English Flashcards
 
----
-
 ## Introduction
 
 **Flashy** is a simple French-to-English flashcard application built with Python and Tkinter. It is designed to help users practice French vocabulary by showing a French word first and revealing its English translation after a short delay.
