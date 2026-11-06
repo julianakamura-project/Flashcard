@@ -6,8 +6,6 @@
 
 This project was created as a practical exercise in building graphical user interfaces, working with CSV files, and keeping track of learning progress between sessions.
 
----
-
 ## Program Overview
 
 The application displays one flashcard at a time in a desktop window.
@@ -29,8 +27,6 @@ The program uses two CSV files in the `data` folder:
 
 The interface also uses image files stored in the `images` folder for the flashcard backgrounds and the correct/incorrect buttons.
 
----
-
 ## Learning Goals
 
 Through this project, I practiced:
@@ -43,8 +39,6 @@ Through this project, I practiced:
 - Reading CSV data with **Pandas** and converting it into dictionaries.
 - Saving updated study progress back to a CSV file.
 - Managing application state, including the current flashcard and remaining vocabulary.
-
----
 
 ## Project Roadmap
 
@@ -60,8 +54,6 @@ All planned features for this version have been completed.
 - [x] Load saved progress when the program is opened again.
 - [x] Use the original `french_words.csv` list when no progress file exists.
 - [x] Display a completion message and an Exit button when all words have been learned.
-
----
 
 ## License
 
